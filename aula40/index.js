@@ -1,5 +1,5 @@
 //Seção 4: JavaScript Funções (Avançado)
-
+// FORMAS DE DECLARAR FUNÇÕES
 // DECLARAÇÃO DE FUNÇÃO HOISTING
 falaOi();
 function falaOi(){
