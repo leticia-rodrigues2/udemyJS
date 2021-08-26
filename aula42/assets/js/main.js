@@ -1,5 +1,3 @@
-
-
 // Retorno da função
 //aula 41
 function criarMultiplicador (multiplicador){
@@ -37,8 +35,8 @@ function criarMultiplicador (multiplicador){
  console.log(typeof p1);
  console.log(typeof p2);
   
- //FUNÇÃO QUE NÃO RETORNA VALOR  ELA FAZ ALGO
- // document.addEventListener('click' ,function(){
- //     document.body.style.backgroundColor = 'red';
- // });
+// FUNÇÃO QUE NÃO RETORNA VALOR  ELA FAZ ALGO
+ document.addEventListener('click' ,function(){
+      document.body.style.backgroundColor = 'red';
+  });
  
