@@ -18,7 +18,7 @@ function ValidaCPF(cpfEnviado) {
     Object.defineProperty(this, 'cpfLimpo', {
       enumerable: true,
       get: function() {
-        return cpfEnviado.replace(/\D+/g, '');
+        return cpfEnviado.replace(/\D+/g, ''); // retirar tudo que for diferente de numero
       }
     });
   }
