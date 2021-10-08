@@ -7,4 +7,4 @@ function salvar() {
     fs.writeFileSync("./criar txt/salvandoCsv.csv", texto +" "+  titulo ,"utf-8" );
    
 }
-salvar()
+salvar();
