@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,MAAM","sources":["webpack://aula84/./src/index.js"],"sourcesContent":["alert(\"Hello leticia teste teste2222\");"],"names":["alert"],"sourceRoot":""}
